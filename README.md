@@ -15,8 +15,7 @@ Clone this repository to your local machine:
 
 ```bash
 git clone https://github.com/your-username/change-word-doc-font-size-style.git
-
-
+```
 ### Activate the Virtual Environment
 
 Navigate to the repository directory and activate the virtual environment:
@@ -24,24 +23,26 @@ Navigate to the repository directory and activate the virtual environment:
 #### Windows
 
 ```bash venv\Scripts\activate
- 
+```
 
 #### Linux
 
 ```bash source venv/bin/activate
-
+```
 
 ### Install Dependencies
 
 Run the following command to install the required dependencies:
 
 ```bash  pip install -r requirements.txt
+```
 
 ### Run the Script
 
 Execute the Python script to change the font size and style of your Word document:
 
 ```bash python change-font-size.py
+```
 
 ### View Results
 
